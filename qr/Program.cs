@@ -21,7 +21,7 @@ app.MapGet("/playlist/{id}", (int id) =>
     {
         case 1:
             {
-                string playlistUrl = "https://open.spotify.com/playlist/37i9dQZF1DWXRqgorJj26U";
+                string playlistUrl = "https://open.spotify.com/playlist/4EWFFqW2vhLs47eJkTtyzR";
                 return Results.Redirect(playlistUrl, true, true);
             }
         default:
