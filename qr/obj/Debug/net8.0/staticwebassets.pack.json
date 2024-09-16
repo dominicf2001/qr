@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/home/dominic/devel/qr/qr/wwwroot/index.css",
+      "PackagePath": "staticwebassets/index.css"
+    },
+    {
+      "Id": "/home/dominic/devel/qr/qr/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/dominic/devel/qr/qr/wwwroot/playlist.png",
+      "PackagePath": "staticwebassets/playlist.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.qr.props",
+      "PackagePath": "build\\qr.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.qr.props",
+      "PackagePath": "buildMultiTargeting\\qr.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.qr.props",
+      "PackagePath": "buildTransitive\\qr.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.qr.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -31,3 +31,5 @@
 /home/dominic/devel/qr/qr/obj/Debug/net8.0/qr.pdb
 /home/dominic/devel/qr/qr/obj/Debug/net8.0/qr.genruntimeconfig.cache
 /home/dominic/devel/qr/qr/obj/Debug/net8.0/ref/qr.dll
+/home/dominic/devel/qr/qr/bin/Debug/net8.0/qr.staticwebassets.runtime.json
+/home/dominic/devel/qr/qr/obj/Debug/net8.0/qr.sourcelink.json

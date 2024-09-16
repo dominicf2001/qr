@@ -11,6 +11,9 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
+app.UseDefaultFiles();
+app.UseStaticFiles();
+
 // TODO: decide between int and guid
 app.MapGet("/playlist/{id}", (int id) =>
 {

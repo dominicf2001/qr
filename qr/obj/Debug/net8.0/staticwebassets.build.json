@@ -1,11 +1,77 @@
 {
   "Version": 1,
-  "Hash": "mIdCoXGZLgTbAxpXrLKKZKshOJ1CCB2WYf5s58yH7Uc=",
+  "Hash": "7UWBu7rg3bpoWDEZFL6uJLo2HTpmUwceA63T4p94uWg=",
   "Source": "qr",
   "BasePath": "_content/qr",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "qr/wwwroot",
+      "Source": "qr",
+      "ContentRoot": "/home/dominic/devel/qr/qr/wwwroot/",
+      "BasePath": "_content/qr",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/dominic/devel/qr/qr/wwwroot/index.css",
+      "SourceId": "qr",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/dominic/devel/qr/qr/wwwroot/",
+      "BasePath": "_content/qr",
+      "RelativePath": "index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.css"
+    },
+    {
+      "Identity": "/home/dominic/devel/qr/qr/wwwroot/index.html",
+      "SourceId": "qr",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/dominic/devel/qr/qr/wwwroot/",
+      "BasePath": "_content/qr",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/dominic/devel/qr/qr/wwwroot/playlist.png",
+      "SourceId": "qr",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/dominic/devel/qr/qr/wwwroot/",
+      "BasePath": "_content/qr",
+      "RelativePath": "playlist.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/playlist.png"
+    }
+  ]
 }
